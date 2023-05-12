@@ -1,0 +1,20 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+
+<dependency>
+    <groupId>org.junit.jupiter</groupId>
+    <artifactId>junit-jupiter-api</artifactId>
+    <version>5.9.3</version>
+    <scope>test</scope>
+</dependency>
+
+
+<properties/>
+
+
+<groupId>com.mycompany.app</groupId>
+<artifactId>my-module</artifactId>
+<version>1</version>
+</project>
